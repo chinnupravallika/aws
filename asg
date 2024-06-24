@@ -1,3 +1,4 @@
 its an autoscaling group
 when incoming trafiic is high then the instances increase 
 when incoming traffic gets decreases then healthly instance goes into unhealthly status
+we need to add elb to the autoscaling group
